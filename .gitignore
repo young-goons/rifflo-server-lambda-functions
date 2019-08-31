@@ -1,0 +1,4 @@
+.idea/
+
+audio_segmentation/lambda_venv
+*.zip
