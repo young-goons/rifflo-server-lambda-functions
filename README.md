@@ -12,7 +12,7 @@ Need to be run every time the main handler file is modified.
 Creates the Lambda Function. Need to be run only once.
 * [audio_segmentation/lambda_update_audio_segmentation.py](./audio_segmentation/lambda_update_audio_segmentation.py)\
 Updates the Lambda Function. Need to be run every time Lambda Function needs to be modified.
-*[audio_segmentation/lambda_audio_segmentation_handler](./audio_segmentation/lambda_audio_segmentation.zip)\
+* [audio_segmentation/lambda_audio_segmentation_handler](./audio_segmentation/lambda_audio_segmentation.zip)\
 The file that is run when the Lambda Function is invoked.
 
 ### Setting up
